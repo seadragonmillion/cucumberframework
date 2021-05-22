@@ -1,0 +1,14 @@
+
+
+to automate a webapplication
+1. browser
+2. url
+3. xpaths
+4. junit/testng to execute
+
+BDD:
+base class
+page objectory
+features
+runner class
+test cases(step definations)

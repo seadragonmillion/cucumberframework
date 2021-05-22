@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="20.964474">
+<testcase classname="Login Functionality" name="Search particular employee" time="20.964474">
+<system-out><![CDATA[Given User clicks on leave tab..............................................passed
+When User clicks on From calender...........................................passed
+And User selects month and year for From Calender...........................passed
+Then User clicks on any date................................................passed
+And User clicks on To Calender..............................................passed
+Then User selects month and year for To Calender............................passed
+And User selects any date...................................................passed
+Then User unchecks Pending Approval checkbox................................passed
+When User enters "Paul".....................................................passed
+And User checkbox SubUnit...................................................passed
+Then User selects "Administration"..........................................passed
+And User clicks including past employee checkbox............................passed
+Then User clicks on search button...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
